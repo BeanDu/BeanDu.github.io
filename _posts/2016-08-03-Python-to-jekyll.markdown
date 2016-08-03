@@ -1,2 +1,11 @@
-## Python基础
+```
+layout: post
+title:  "Python基础"
+date:   2016-08-03 21:25:12 +0800
+categories: jekyll update
+```
+
+
+
+
 
